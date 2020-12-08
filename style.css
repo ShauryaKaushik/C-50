@@ -1,0 +1,22 @@
+h1{
+    color: palegreen; 
+    background-color:black;
+    display: flex;
+    justify-content: space-between;
+   }
+
+   *{
+     border: solid;   
+   } 
+
+   .header{
+    background-color: coral;  
+    display: flex;
+    justify-content: space-between;
+  }
+ 
+  .grid{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-evenly;
+  }
